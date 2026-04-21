@@ -17,24 +17,29 @@
 
 <h3>📧 Contact Me</h3>
 
-<p align="left">
+<p align="left" style="display:flex; gap:25px; align-items:center;">
+
 <a href="https://www.linkedin.com/in/nedal-abughanem/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="24" style="margin-right:15px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="32"/>
 </a>
+
 <a href="https://www.instagram.com/nedal.abughanem/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="24" style="margin-right:15px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="32"/>
 </a>
+
 <a href="https://www.facebook.com/nedal.abughanem">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="24" style="margin-right:15px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="32"/>
 </a>
+
 <a href="mailto:nedal.abughanem@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="24"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="32"/>
 </a>
+
 </p>
 
 ---
 
-<h2 align="center">🚀 My Skill Set</h2>
+<h2>🚀 My Skill Set</h2>
 
 <div align="center" style="
   background: linear-gradient(135deg, #eaffea, #d9fdd9);
