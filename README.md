@@ -14,6 +14,7 @@
 </p>
 
 ---
+
 <h2>📧 Contact Me</h2>
 
 <div align="center" style="
@@ -22,7 +23,7 @@
   border-radius: 15px;
 ">
 
-<table align="center">
+<table align="center" style="border: 2px solid white; border-collapse: collapse; padding: 10px;">
 <tr>
 
 <td align="center">
