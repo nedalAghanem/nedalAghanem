@@ -1,9 +1,7 @@
-<h2 align="left" style="font-size: 2rem;">
+<h1 align="left">
   Hi there 👋! I'm Nedal 
-  <a href="https://github.com/nedaAghanem" target="_blank">
-    <img align="right" src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</h2>
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+</h1>
 
 <h4 align="left">Mobile Developer (Android & Flutter)</h4>
 
@@ -20,41 +18,49 @@
 <h3>📧 Contact Me</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/nedal-abughanem/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22"/></a>
-<a href="https://www.instagram.com/nedal.abughanem/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22"/></a>
-<a href="https://www.facebook.com/nedal.abughanem"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="22"/></a>
-<a href="mailto:nedal.abughanem@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="22"/></a>
+<a href="https://www.linkedin.com/in/nedal-abughanem/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="24" style="margin-right:15px;"/>
+</a>
+<a href="https://www.instagram.com/nedal.abughanem/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="24" style="margin-right:15px;"/>
+</a>
+<a href="https://www.facebook.com/nedal.abughanem">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="24" style="margin-right:15px;"/>
+</a>
+<a href="mailto:nedal.abughanem@gmail.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="24"/>
+</a>
 </p>
-
-<br/>
 
 ---
 
 <h2 align="center">🚀 My Skill Set</h2>
 
-<table align="center" style="background-color:#0d1117; border-radius:10px; padding:15px;">
-<tr>
-<td valign="top" align="center">
+<div align="center" style="
+  background: linear-gradient(135deg, #d4f8d4, #eaffea);
+  padding: 20px;
+  border-radius: 15px;
+">
 
 ### Languages  
-<div align="center">  
-  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,flutter" /><br><br>
-  <img src="https://skillicons.dev/icons?i=sqlite" />
-  <p style="color:white;">SQL / Server</p>
-</div>
 
-</td>
+<img src="https://skillicons.dev/icons?i=java" height="50"/>
+<img src="https://skillicons.dev/icons?i=kotlin" height="65"/>
+<img src="https://skillicons.dev/icons?i=dart" height="45"/>
+<img src="https://skillicons.dev/icons?i=flutter" height="70"/>
+<img src="https://skillicons.dev/icons?i=sqlite" height="50"/>
 
-<td valign="top" align="center">
+<br><br>
 
 ### Tools  
-<div align="center">  
-  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,git,github,figma" />
-</div>
 
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=androidstudio" height="60"/>
+<img src="https://skillicons.dev/icons?i=firebase" height="45"/>
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=figma" height="65"/>
+
+</div>
 
 ---
 
