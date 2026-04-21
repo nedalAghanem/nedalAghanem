@@ -14,8 +14,7 @@
 </p>
 
 ---
-
-<h3>📧 Contact Me</h3>
+<h2 align="center">📧 Contact Me</h2>
 
 <div align="center" style="
   background: linear-gradient(135deg, #eaffea, #d9fdd9);
@@ -23,40 +22,27 @@
   border-radius: 15px;
 ">
 
-<table>
-<tr>
-<td align="center">
 <a href="https://www.linkedin.com/in/nedal-abughanem/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40" style="border: none;"/>
 </a>
-</td>
 
-<td width="20"></td>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td align="center">
 <a href="https://www.instagram.com/nedal.abughanem/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="40" style="border: none;"/>
 </a>
-</td>
 
-<td width="20"></td>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td align="center">
 <a href="https://www.facebook.com/nedal.abughanem">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="40" style="border: none;"/>
 </a>
-</td>
 
-<td width="20"></td>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td align="center">
 <a href="mailto:nedal.abughanem@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="40" style="border: none;"/>
 </a>
-</td>
-
-</tr>
-</table>
 
 </div>
 
