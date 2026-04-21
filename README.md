@@ -23,27 +23,40 @@
   border-radius: 15px;
 ">
 
+<table>
+<tr>
+<td align="center">
 <a href="https://www.linkedin.com/in/nedal-abughanem/">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="36"/>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<td width="20"></td>
 
+<td align="center">
 <a href="https://www.instagram.com/nedal.abughanem/">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="36"/>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<td width="20"></td>
 
+<td align="center">
 <a href="https://www.facebook.com/nedal.abughanem">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="36"/>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<td width="20"></td>
 
+<td align="center">
 <a href="mailto:nedal.abughanem@gmail.com">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="36"/>
 </a>
+</td>
+
+</tr>
+</table>
 
 </div>
 
