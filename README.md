@@ -13,6 +13,6 @@ I'm an Android & Flutter Developer 🚀
 
 ## 📊 GitHub Stats
 
-![Nedal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nedaAghanem&show_icons=true&theme=default)
+![Nedal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nedalAghanem&show_icons=true&theme=default)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=nedaAghanem)
+![GitHub Streak](https://streak-stats.demolab.com/?user=nedalAghanem)
