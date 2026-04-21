@@ -1,5 +1,5 @@
 <h1 align="left">
-  Hi there 👋! I'm Nedal 
+  Hi 👋 I'm Nedal 
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 </h1>
 
@@ -37,28 +37,34 @@
 <h2 align="center">🚀 My Skill Set</h2>
 
 <div align="center" style="
-  background: linear-gradient(135deg, #d4f8d4, #eaffea);
+  background: linear-gradient(135deg, #eaffea, #d9fdd9);
   padding: 20px;
   border-radius: 15px;
 ">
 
-### Languages  
+<table align="center">
+<tr>
 
-<img src="https://skillicons.dev/icons?i=java" height="50"/>
-<img src="https://skillicons.dev/icons?i=kotlin" height="65"/>
-<img src="https://skillicons.dev/icons?i=dart" height="45"/>
-<img src="https://skillicons.dev/icons?i=flutter" height="70"/>
-<img src="https://skillicons.dev/icons?i=sqlite" height="50"/>
+<td align="center" valign="top">
 
-<br><br>
+### 💻 Languages  
+<img src="https://skillicons.dev/icons?i=java,kotlin,dart,flutter,sqlite" />
 
-### Tools  
+<p>SQL / Server</p>
 
-<img src="https://skillicons.dev/icons?i=androidstudio" height="60"/>
-<img src="https://skillicons.dev/icons?i=firebase" height="45"/>
-<img src="https://skillicons.dev/icons?i=git" height="55"/>
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-<img src="https://skillicons.dev/icons?i=figma" height="65"/>
+</td>
+
+<td width="50"></td>
+
+<td align="center" valign="top">
+
+### 🛠️ Tools  
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase,git,github,figma" />
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -67,9 +73,9 @@
 ## 📊 Github Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nedaAghanem&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nedalAghanem&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=nedaAghanem&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=nedalAghanem&theme=dark&hide_border=true" />
 </div>
