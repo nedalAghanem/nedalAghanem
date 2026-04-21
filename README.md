@@ -18,7 +18,7 @@
 <h2>📧 Contact Me</h2>
 
 <div align="center" style="
-  background: linear-gradient(135deg, #eaffea, #d9fdd9);
+  background: linear-gradient(135deg, #ffffff, #ffffff);
   padding: 20px;
   border-radius: 15px;
 ">
