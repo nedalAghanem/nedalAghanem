@@ -17,25 +17,35 @@
 
 <h3>📧 Contact Me</h3>
 
-<p align="left" style="display:flex; gap:25px; align-items:center;">
+<div align="center" style="
+  background: linear-gradient(135deg, #eaffea, #d9fdd9);
+  padding: 20px;
+  border-radius: 15px;
+">
 
 <a href="https://www.linkedin.com/in/nedal-abughanem/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="36"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/nedal.abughanem/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="36"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.facebook.com/nedal.abughanem">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="36"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:nedal.abughanem@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="36"/>
 </a>
 
-</p>
+</div>
 
 ---
 
