@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋! I'm Nedal
 
-<!--
-**nedalAghanem/nedalAghanem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Android & Flutter Developer 🚀
 
-Here are some ideas to get you started:
+🔭 Currently working on mobile applications  
+🌱 I’m currently learning advanced Flutter & Jetpack Compose  
+💡 Interested in UI/UX & problem solving  
+📱 Building real-world apps using Java, Kotlin & Flutter  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📃 Check out my Resume  
+💻 View my Portfolio  
+
+
+## 📊 GitHub Stats
+
+![Nedal's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
