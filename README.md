@@ -8,7 +8,7 @@
 <p align="left">
   📱 Native & Cross-platform Mobile Developer (Java, Kotlin, Flutter)<br>
   ⌚ Building apps for mobile & smartwatches using Kotlin<br>
-  🔭 Currently working on <a href="https://github.com/nedaAghanem/YallaEat-App">YallaEat App</a><br>
+  🔭 Currently working on <a href="https://github.com/nedalAghanem/YallaEat-App">YallaEat App</a><br>
   💼 I’m currently working as a Mobile Developer<br>
   🤝 I’m always looking to collaborate with Open Source projects
 </p>
